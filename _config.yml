@@ -1,12 +1,12 @@
 title: Sahaj Gupta
-logo: /assets/images/head-shot.jpeg  # Ensure this image exists
+logo: /assets/img/head-shot.jpeg  # Ensure this image exists
 show_downloads: true
 theme: jekyll-theme-minimal
 
 # Site Author
 author:
   name: "Sahaj Gupta"
-  avatar: /assets/images/head-shot.jpeg  # Ensure this image exists
+  avatar: /assets/img/head-shot.jpeg  # Ensure this image exists
   bio: "Astute Problem Solver as a Software Engineer at Piramal Finance."
   location: "Bengaluru, India"
   links:
