@@ -1,52 +1,6 @@
 title: Sahaj Gupta
 logo: /assets/img/head-shot.jpeg  # Ensure this image exists
-show_downloads: true
 theme: jekyll-theme-minimal
-
-# Site Author
-author:
-  name: "Sahaj Gupta"
-  avatar: /assets/img/head-shot.jpeg  # Ensure this image exists
-  bio: "Astute Problem Solver as a Software Engineer at Piramal Finance."
-  location: "Bengaluru, India"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:sahajgupta011@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/sahaj--gupta/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/SG011"
-    - label: "Resume"
-      icon: "fas fa-fw fa-file"
-      url: "https://drive.google.com/drive/folders/17C_Gfm95cqggH6pQPuWi02Fsn4A-EtRA"
-
-# Site Footer
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/sahaj--gupta/"
-
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:sahajgupta011@gmail.com"
-
-    - label: "Mobile"
-      icon: "fas fa-fw fa-phone"
-      url: "tel:+91 6263923760"
-
-# Social Links
-social_links:
-  - name: "GitHub"
-    url: "https://github.com/SG011"
-    icon: "fab fa-fw fa-github"
-
-  - name: "LinkedIn"
-    url: "https://www.linkedin.com/in/sahaj--gupta/"
-    icon: "fab fa-fw fa-linkedin"
 
 plugins:
   - jekyll-paginate
