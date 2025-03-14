@@ -28,6 +28,7 @@ I specialize in end-to-end system design, from conceptualization to deployment. 
 I’m passionate about innovation, system architecture, and problem-solving. Always open to discussing tech challenges, new opportunities, or collaboration ideas.  
 
 📩 Email: [sahajgupta011@gmail.com](mailto:sahajgupta011@gmail.com)  
+📞 Phone: +91 6263923760
 🔗 LinkedIn: [linkedin.com/in/sahaj--gupta/](https://www.linkedin.com/in/sahaj--gupta/)  
 💻 GitHub: [github.com/SG011](https://github.com/SG011)  
 📜 Resume: [View Resume](https://drive.google.com/drive/folders/17C_Gfm95cqggH6pQPuWi02Fsn4A-EtRA)  
