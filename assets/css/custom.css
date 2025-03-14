@@ -1,0 +1,5 @@
+img[src*="cropped-head-shot2.png"] {
+    width: 200px;  /* Adjust the width as needed */
+    height: auto;   /* Maintain aspect ratio */
+    border-radius: 50%; /* (Optional) Makes the image circular */
+}
