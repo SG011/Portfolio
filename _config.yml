@@ -1,7 +1,7 @@
 style: /assets/css/custom.css
 
 title: Sahaj Gupta
-logo: /assets/img/cropped-head-shot2.png  # Ensure this image exists
+logo: /assets/img/head-shot.jpeg  # Ensure this image exists
 theme: jekyll-theme-minimal
 show_footer: false
 plugins:
