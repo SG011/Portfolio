@@ -12,19 +12,19 @@ From my early days competing in Google Kickstart and ranking under 1000 globally
 
 ## 🚀 What I Do Now:
 At Piramal Finance, I’ve been at the forefront of developing financial solutions that drive growth and efficiency:
-✔ Spearheaded the Top-Up Loan Functionality, automating loan consolidation and unlocking ₹135 crore in business value.
-✔ Engineered a secure e-signature algorithm, reducing processing time by 30%.
-✔ Optimized loan processing by automating ITR retrieval, improving client onboarding efficiency by 40%.
-✔ Developed a co-lending algorithm, increasing loan approvals by 25%.
-✔ Integrated API-driven insurance solutions, boosting customer satisfaction by 70%.
+- ✔ Spearheaded the Top-Up Loan Functionality, automating loan consolidation and unlocking ₹135 crore in business value.
+- ✔ Engineered a secure e-signature algorithm, reducing processing time by 30%.
+- ✔ Optimized loan processing by automating ITR retrieval, improving client onboarding efficiency by 40%.
+- ✔ Developed a co-lending algorithm, increasing loan approvals by 25%.
+- ✔ Integrated API-driven insurance solutions, boosting customer satisfaction by 70%.
 
 ## 💻 How I Work:
-I specialize in end-to-end system design, from conceptualization to deployment. My approach is rooted in:
-🔹 Scalability & Performance – Ensuring applications can handle rapid growth.
-🔹 Security & Compliance – Implementing robust access control & encryption measures.
-🔹 User-Centric Design – Creating intuitive and seamless digital experiences.
+I specialize in end-to-end system design, from conceptualization to deployment. My approach is rooted in:- 
+- 🔹 Scalability & Performance – Ensuring applications can handle rapid growth.
+- 🔹 Security & Compliance – Implementing robust access control & encryption measures.
+- 🔹 User-Centric Design – Creating intuitive and seamless digital experiences.
 
-##👥 Let’s Connect!
+## 👥 Let’s Connect!
 I’m passionate about innovation, system architecture, and problem-solving. Always open to discussing tech challenges, new opportunities, or collaboration ideas.
 📩 Reach me at: sahajgupta011@gmail.com 
 ________________________________________
@@ -32,40 +32,40 @@ ________________________________________
 ## Experience:
 ### Piramal Finance | Software Engineer (Full Stack) | Bangalore | July 2023 – Present
 ⭐ Driving fintech innovation through scalable & secure development
-✔ Built and deployed a Top-Up Loan functionality, unlocking ₹135 crore in business value by automating loan consolidation.
-✔ Developed a secure e-signature algorithm, enhancing data security and reducing processing time by 30%.
-✔ Automated ITR retrieval, improving efficiency in loan processing and boosting client onboarding by 40%.
-✔ Piloted a co-lending algorithm, resulting in a 25% increase in loan approvals through strategic collaboration.
-✔ Integrated insurance APIs, leading to a 70% surge in customer satisfaction and revenue growth.
+- ✔ Built and deployed a Top-Up Loan functionality, unlocking ₹135 crore in business value by automating loan consolidation.
+- ✔ Developed a secure e-signature algorithm, enhancing data security and reducing processing time by 30%.
+- ✔ Automated ITR retrieval, improving efficiency in loan processing and boosting client onboarding by 40%.
+- ✔ Piloted a co-lending algorithm, resulting in a 25% increase in loan approvals through strategic collaboration.
+- ✔ Integrated insurance APIs, leading to a 70% surge in customer satisfaction and revenue growth.
 ________________________________________
 
 ### Hevo Data | Software Engineer Intern | Bangalore | Jan 2023 – July 2023
 ⭐ Enhancing data security & optimizing financial processes
-✔ Designed and implemented an RBAC system, improving data security and reducing unauthorized access by 40%.
-✔ Engineered an optimized billing algorithm, enhancing accuracy by 25% and cutting processing time by 20%.
-✔ Developed an SQL join optimization model, boosting query performance by 30%.
+- ✔ Designed and implemented an RBAC system, improving data security and reducing unauthorized access by 40%.
+- ✔ Engineered an optimized billing algorithm, enhancing accuracy by 25% and cutting processing time by 20%.
+- ✔ Developed an SQL join optimization model, boosting query performance by 30%.
 ________________________________________
 
 ### Dremio | Software Engineer Intern | Hyderabad | May 2022 – July 2022
-⭐ Boosting data processing efficiency with Gandiva & C++
-✔ Engineered Hive functions in Gandiva, amplifying data processing speed while maintaining system reliability.
-✔ Optimized workflows with software design principles, ensuring scalable execution.
+- ⭐ Boosting data processing efficiency with Gandiva & C++
+- ✔ Engineered Hive functions in Gandiva, amplifying data processing speed while maintaining system reliability.
+- ✔ Optimized workflows with software design principles, ensuring scalable execution.
 ________________________________________
 
 ### Voiceqube | Software Engineer Intern | Hyderabad | May 2021 – July 2021
 ⭐ Innovating voice-enabled applications for better accessibility
-✔ Developed a voice-enabled Alexa app, improving user engagement through a seamless voice UI.
-✔ Enhanced SDLC efficiency, optimizing deployments and performance through robust coding practices.
+- ✔ Developed a voice-enabled Alexa app, improving user engagement through a seamless voice UI.
+- ✔ Enhanced SDLC efficiency, optimizing deployments and performance through robust coding practices.
 ________________________________________
 
 ## Skills:
-🔹 Full Stack Development (Java, Spring Boot, React, Next.js)
-🔹 Software Architecture & System Design
-🔹 Microservices & API Development
-🔹 Data Structures & Algorithms
-🔹 SQL & NoSQL Databases (PostgreSQL, MySQL, MongoDB)
-🔹 Cloud Computing & AWS IAM
-🔹 Performance Tuning & Code Optimization
-🔹 Secure Coding & Access Management
-🔹 Agile & Scrum Methodology
-🔹 Problem Solving & Competitive Programming
+- 🔹 Full Stack Development (Java, Spring Boot, React, Next.js)
+- 🔹 Software Architecture & System Design
+- 🔹 Microservices & API Development
+- 🔹 Data Structures & Algorithms
+- 🔹 SQL & NoSQL Databases (PostgreSQL, MySQL, MongoDB)
+- 🔹 Cloud Computing & AWS IAM
+- 🔹 Performance Tuning & Code Optimization
+- 🔹 Secure Coding & Access Management
+- 🔹 Agile & Scrum Methodology
+- 🔹 Problem Solving & Competitive Programming
