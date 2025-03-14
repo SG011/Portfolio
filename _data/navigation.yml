@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /
+  - title: "My Journey"
+    url: /journey/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
