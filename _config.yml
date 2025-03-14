@@ -1,3 +1,5 @@
+style: /assets/css/custom.css
+
 title: Sahaj Gupta
 logo: /assets/img/cropped-head-shot2.png  # Ensure this image exists
 theme: jekyll-theme-minimal
